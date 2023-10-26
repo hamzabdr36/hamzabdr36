@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 - <b> University Notes Management System (Python, Django)</b>
   - [A web-based common platform for notes sharing](https://github.com/hamzabdr36/UniversityNotesManagementSystem.git)
 
+- <b> Expense Tracker Web App</b>
+  - [A web based expense tracker app lets you manage your daily expenses with ease](https://github.com/hamzabdr36/expense-treacker-react.git)
+
 <h3>📚 Course Work:</h3>
 
 - <b> Visual Data Analysis (Masters)</b>
