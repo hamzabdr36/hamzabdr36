@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - <b> University Notes Management System (Python, Django)</b>
   - [A web-based common platform for notes sharing](https://github.com/hamzabdr36/UniversityNotesManagementSystem.git)
 
-- <b> Expense Tracker Web App</b>
+- <b> Expense Tracker Web App (ReactJs)</b>
   - [A web based expense tracker app lets you manage your daily expenses with ease](https://github.com/hamzabdr36/expense-treacker-react.git)
 
 <h3>📚 Course Work:</h3>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Hamza Badar | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
 
 [linkedin]: https://www.linkedin.com/in/hamza-badar36
-[instagram]: https://https://www.instagram.com/hamzabdr.1/
+[instagram]: https://www.instagram.com/hamzabdr.1/
 [Gmail]: mailto:hamzabdr36@gmail.com
 
 <!--
